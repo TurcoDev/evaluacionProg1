@@ -15,3 +15,15 @@
  *  7. Sube los cambios a GitHub.
  *     git push -u origin master
  */
+
+/***
+ * EXTRAS
+ * 
+ * generar numeros aleatorios
+ * 
+ * let aleatorio = Math.floor(Math.random() * max);
+ * Math.random() genera un número decimal aleatorio entre 0 (incluido) y 1 (excluido).
+ *
+ * donde max es el valor maximo que deseamos obtener.
+ *
+ */
